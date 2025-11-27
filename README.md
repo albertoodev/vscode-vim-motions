@@ -1,3 +1,4 @@
-# vscode-vim-motions-keybindings
---- 
-my personal vscode keybindings for vim motions 
+# VS Code settings and keybindings for vim motions
+
+
+my personal settings & keybindings for vim motions in vscode  

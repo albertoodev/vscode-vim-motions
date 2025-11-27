@@ -1,0 +1,107 @@
+{
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "C_Cpp.updateChannel": "Insiders",
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "enableTelemetry": false,
+  "dart.openDevTools": "flutter",
+  "dart.debugSdkLibraries": true,
+  "files.associations": {
+    "*.dart": "dart"
+  },
+  "workbench.startupEditor": "none",
+  "redhat.telemetry.enabled": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.autofetch": true,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "workbench.editorAssociations": {
+    "*.txt": "default",
+    "*.xlsx": "default"
+  },
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "terminal.integrated.automationProfile.linux": {},
+  "terminal.integrated.defaultProfile.osx": "",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh"
+    },
+    "fish": {
+      "path": "fish"
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    }
+  },
+  "[xslt]": {
+    "editor.semanticHighlighting.enabled": true
+  },
+  "terminal.integrated.defaultProfile.linux": "JavaScript Debug Terminal",
+  "js/ts.implicitProjectConfig.strictFunctionTypes": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "discord.removeDetails": true,
+  "discord.removeRemoteRepository": true,
+  "vscord.app.name": "Visual Studio Code",
+  "vscord.app.privacyMode.enable": true,
+  "vscord.status.idle.check": false,
+  "vscord.status.idle.enabled": false,
+  "vscord.status.problems.enabled": false,
+  "vscord.status.details.enabled": false,
+  "vscord.status.details.idle.enabled": false,
+  "vscord.status.state.enabled": false,
+  "vscord.status.state.idle.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.inlineSuggest.enabled": true,
+  "cSpell.userWords": ["bodyparser", "cupertino", "dartz", "riverpod", "vsync"],
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.settings.applyToAllProfiles": ["editor.fontSize"],
+  "prisma.showPrismaDataPlatformNotification": false,
+  "git.openRepositoryInParentFolders": "never",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "discord.detailsDebugging": "Debugging",
+  "discord.detailsEditing": "Editing",
+  "discord.lowerDetailsDebugging": "Debugging",
+  "discord.lowerDetailsEditing": "Workspace",
+  "discord.smallImage": "<3",
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "dart.runPubGetOnPubspecChanges": "never",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "geminicodeassist.project": "nomadic-quota-np35s",
+  "diffEditor.codeLens": true,
+  "geminicodeassist.inlineSuggestions.enableAuto": true,
+  "editor.minimap.enabled": false,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "workbench.sideBar.location": "right",
+  "keyboard.dispatch": "keyCode",
+  "screencastMode.keyboardOptions": {
+    "showKeys": false
+  }
+}
