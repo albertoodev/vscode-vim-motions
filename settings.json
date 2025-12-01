@@ -103,5 +103,8 @@
   "keyboard.dispatch": "keyCode",
   "screencastMode.keyboardOptions": {
     "showKeys": false
-  }
+  },
+  "editor.lineNumbers": "relative",
+  "roo-cline.allowedCommands": ["git log", "git diff", "git show"],
+  "roo-cline.deniedCommands": []
 }

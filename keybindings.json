@@ -246,5 +246,16 @@
     "key": "ctrl+l",
     "command": "cursorRight",
     "when": "editorTextFocus && vim.active && vim.mode == 'Insert'"
+  },
+  // Terminal
+  {
+    "key": "alt-t",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "editorFocus || terminalFocus"
+  },
+  {
+    "key": "alt-shift-t",
+    "command": "workbench.action.terminal.new",
+    "when": "editorFocus || terminalFocus"
   }
 ]
