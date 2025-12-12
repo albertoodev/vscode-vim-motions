@@ -77,7 +77,7 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.inlineSuggest.enabled": true,
   "cSpell.userWords": ["bodyparser", "cupertino", "dartz", "riverpod", "vsync"],
-  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.colorTheme": "Aura Dracula Spirit",
   "workbench.settings.applyToAllProfiles": ["editor.fontSize"],
   "prisma.showPrismaDataPlatformNotification": false,
   "git.openRepositoryInParentFolders": "never",
@@ -106,5 +106,13 @@
   },
   "editor.lineNumbers": "relative",
   "roo-cline.allowedCommands": ["git log", "git diff", "git show"],
-  "roo-cline.deniedCommands": []
+  "roo-cline.deniedCommands": [],
+  "workbench.colorCustomizations": {
+    "[Aura Dracula Spirit]": {
+      "editor.background": "#000000",
+      "sideBar.background": "#000000",
+      "editorGroupHeader.tabsBackground": "#000000",
+      "terminal.background": "#000000"
+    }
+  }
 }
