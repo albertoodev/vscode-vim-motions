@@ -51,12 +51,12 @@
   {
     "command": "workbench.action.splitEditor",
     "key": "s h",
-    "when": "vim.mode == 'Normal' && (editorTextFocus || filesExplorerFocus)"
+    "when": "vim.mode == 'Normal' && (editorTextFocus || !filesExplorerFocus ) && !terminal.active"
   },
   {
     "command": "workbench.action.splitEditorDown",
     "key": "s v",
-    "when": "vim.mode == 'Normal' && (editorTextFocus || filesExplorerFocus)"
+    "when": "vim.mode == 'Normal' && (editorTextFocus || !filesExplorerFocus) && !terminal.active"
   },
   {
     "command": "workbench.action.closeActiveEditor",
